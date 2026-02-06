@@ -4,6 +4,9 @@
 The objective of the Lenovo Laptop Sales Analysis project is to analyze the company’s financial and operational performance over multiple financial years.
 This project aims to understand revenue growth, profitability, efficiency, operating leverage, and shareholder value, and to identify how costs and profits are distributed to evaluate overall business performance and decision-making effectiveness.
 
+## Dataset:
+<a href="https://github.com/poojapatel0902/Lenovo-Sale-Analysis-Dashboard/blob/main/Lenovo_Sales_Dataset.csv">Dataset</a>
+
 ## Project Process
 1. Data Collection
 Collected historical Lenovo sales and financial data across multiple fiscal years (FY2017/18 to FY2024/25).
